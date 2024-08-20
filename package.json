@@ -1,5 +1,5 @@
 {
-  "name": "fastify-health-check",
+  "name": "@g_piyush/fastify-health-check",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
